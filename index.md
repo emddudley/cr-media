@@ -2,4 +2,4 @@
 layout: default
 title: Home
 ---
-<h1>{{ page.title }}</h1>
+# Critical Data
