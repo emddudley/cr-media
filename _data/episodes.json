@@ -1,11 +1,204 @@
 {
-  "show": "Critical Role",
-  "campaign": 1,
-  "episode": 1,
-  "title": "Arrival at Kraghammer",
-  "airDate": "2015-03-12T19:00:00-0700",
-  "runtimeSeconds": 10987,
-  "publisher": "Geek and Sundry",
-  "publicationUrl": "https://geekandsundry.com/critical-role-episode-1/",
-  "youtubeVideoId": "i-p9lWIhcLQ"
+  "episodes": [
+    {
+      "show": "Critical Role",
+      "season": "Campaign 1",
+      "number": "1",
+      "ordinal": 0,
+      "title": "Arrival at Kraghammer",
+      "aired": "2015-03-12T19:00:00-0700",
+      "runtime": 10987,
+      "links": {
+        "Geek and Sundry": "https://geekandsundry.com/critical-role-episode-1/"
+      },
+      "producers": [
+        "Geek and Sundry"
+      ],
+      "publishers": [
+        "Geek and Sundry"
+      ],
+      "distribution": [
+        {
+          "name": "Twitch",
+          "media_id": ""
+        },
+        {
+          "name": "YouTube",
+          "media_id": "i-p9lWIhcLQ"
+        }
+      ]
+    },
+    {
+      "show": "Critical Role Podcast",
+      "season": "Campaign 1",
+      "number": "1",
+      "ordinal": 0,
+      "title": "Arrival at Kraghammer",
+      "aired": "",
+      "runtime": 0,
+      "links": {
+        "": "https://geekandsundry.com/critical-role-episode-1/"
+      },
+      "producers": [
+        "Geek and Sundry"
+      ],
+      "publishers": [
+        "Geek and Sundry"
+      ],
+      "distribution": [
+        {
+          "service": "Apple Podcasts",
+          "media_id": ""
+        },
+        {
+          "service": "Google Podcasts",
+          "media_id": ""
+        },
+        {
+          "service": "Spotify",
+          "media_id": ""
+        }
+      ]
+    }
+  ],
+  "seasons": [
+    {
+      "name": "Campaign 1",
+      "show": "Critical Role",
+      "ordinal": 0,
+      "links": {
+        "Critical Role": "https://critrole.com/campaign-1/"
+      }
+    },
+    {
+      "name": "Campaign 1",
+      "show": "Critical Role Podcast",
+      "ordinal": 0,
+      "links": {
+        "Critical Role": "https://critrole.com/campaign-1-podcast/"
+      }
+    },
+    {
+      "name": "Campaign 2",
+      "show": "Critical Role",
+      "ordinal": 1,
+      "links": {
+        "Critical Role": "https://critrole.com/campaign-2/"
+      }
+    },
+    {
+      "name": "Campaign 2",
+      "show": "Critical Role Podcast",
+      "ordinal": 0,
+      "links": {
+        "Critical Role": "https://critrole.com/campaign-2-podcast/"
+      }
+    }
+  ],
+  "shows": [
+    {
+      "name": "Critical Role",
+      "links": {
+        "Critical Role": "https://critrole.com/",
+        "Geek and Sundry": "https://geekandsundry.com/shows/critical-role/"
+      }
+    },
+    {
+      "name": "Critical Role Podcast",
+      "links": {
+        "Critical Role": "https://critrole.com/",
+        "Geek and Sundry": "http://criticalrolepodcast.geekandsundry.com/"
+      }
+    }
+  ],
+  "services": [
+    {
+      "name": "Alpha",
+      "operator": "Legendary Digital Networks",
+      "links": {
+        "Home": "https://www.projectalpha.com/"
+      }
+    },
+    {
+      "name": "Apple Podcasts",
+      "operator": "Apple, Inc.",
+      "links": {
+        "Home": "https://www.apple.com/itunes/podcasts/"
+      }
+    },
+    {
+      "name": "Google Podcasts",
+      "operator": "Google, LLC",
+      "links": {
+        "Home": "https://podcasts.google.com/"
+      }
+    },
+    {
+      "name": "PodBean",
+      "operator": "Podbean Tech, LLC",
+      "links": {
+        "Home": "https://www.podbean.com/"
+      }
+    },
+    {
+      "name": "Spotify",
+      "operator": "Spotify Technology S.A.",
+      "links": {
+        "Home": "https://www.spotify.com/"
+      }
+    },
+    {
+      "name": "Twitch",
+      "operator": "Twitch Interactive, Inc.",
+      "links": {
+        "Home": "https://www.twitch.tv/"
+      }
+    },
+    {
+      "name": "YouTube",
+      "operator": "YouTube, LLC",
+      "links": {
+        "Home": "https://www.youtube.com/"
+      },
+      "media_link_pattern": "https://www.youtube.com/watch?v={media_id}"
+    }
+  ],
+  "organizations": [
+    {
+      "name": "Apple, Inc."
+    },
+    {
+      "name": "CRP Services, LLC",
+      "links": {
+        "Home": "https://critrole.com/"
+      }
+    },
+    {
+      "name": "Geek and Sundry"
+    },
+    {
+      "name": "Google, LLC"
+    },
+    {
+      "name": "Legendary Digital Networks"
+    },
+    {
+      "name": "Legendary Geek & Sundry, LLC",
+      "links": {
+        "Home": "https://geekandsundry.com/"
+      }
+    },
+    {
+      "name": "Podbean Tech, LLC"
+    },
+    {
+      "name": "Spotify Technology S.A."
+    },
+    {
+      "name": "Twitch Interactive, Inc."
+    },
+    {
+      "name": "YouTube, LLC"
+    }
+  ]
 }
