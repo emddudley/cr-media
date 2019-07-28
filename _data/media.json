@@ -32,6 +32,240 @@
     ]
   },
   {
+    "series": "Critical Role",
+    "season": "Campaign 1",
+    "episode": "2",
+    "ordinal": 1,
+    "title": "Into the Greyspine Mines",
+    "links": {
+      "Geek and Sundry": "https://geekandsundry.com/critical-role-episode-2/"
+    },
+    "productions": [
+      {
+        "producer": "Geek and Sundry"
+      }
+    ],
+    "publications": [
+      {
+        "publisher": "Geek and Sundry"
+      }
+    ],
+    "distributions": [
+      {
+        "distributor": "YouTube",
+        "media_id": "JTie0S_5gjE"
+      }
+    ]
+  },
+  {
+    "series": "Critical Role",
+    "season": "Campaign 1",
+    "episode": "3",
+    "ordinal": 2,
+    "title": "Strange Bedfellows",
+    "links": {
+      "Geek and Sundry": "https://geekandsundry.com/critical-role-episode-3/"
+    },
+    "productions": [
+      {
+        "producer": "Geek and Sundry"
+      }
+    ],
+    "publications": [
+      {
+        "publisher": "Geek and Sundry"
+      }
+    ],
+    "distributions": [
+      {
+        "distributor": "YouTube",
+        "media_id": "kpkCcb--r90"
+      }
+    ]
+  },
+  {
+    "series": "Critical Role",
+    "season": "Campaign 1",
+    "episode": "4",
+    "ordinal": 3,
+    "title": "Attack on the Duergar Warcamp",
+    "links": {
+      "Geek and Sundry": "https://geekandsundry.com/critical-role-episode-4/"
+    },
+    "productions": [
+      {
+        "producer": "Geek and Sundry"
+      }
+    ],
+    "publications": [
+      {
+        "publisher": "Geek and Sundry"
+      }
+    ],
+    "distributions": [
+      {
+        "distributor": "YouTube",
+        "media_id": "kGxiZNbjwGI"
+      }
+    ]
+  },
+  {
+    "series": "Critical Role",
+    "season": "Campaign 1",
+    "episode": "5",
+    "ordinal": 4,
+    "title": "The Trick About Falling",
+    "links": {
+      "Geek and Sundry": "https://geekandsundry.com/critical-role-episode-5/"
+    },
+    "productions": [
+      {
+        "producer": "Geek and Sundry"
+      }
+    ],
+    "publications": [
+      {
+        "publisher": "Geek and Sundry"
+      }
+    ],
+    "distributions": [
+      {
+        "distributor": "YouTube",
+        "media_id": "u6QpXDL7E8Y"
+      }
+    ]
+  },
+  {
+    "series": "Critical Role",
+    "season": "Campaign 1",
+    "episode": "6",
+    "ordinal": 5,
+    "title": "Breaching the Emberhold",
+    "links": {
+      "Geek and Sundry": "https://geekandsundry.com/critical-role-episode-6/"
+    },
+    "productions": [
+      {
+        "producer": "Geek and Sundry"
+      }
+    ],
+    "publications": [
+      {
+        "publisher": "Geek and Sundry"
+      }
+    ],
+    "distributions": [
+      {
+        "distributor": "YouTube",
+        "media_id": "cemCmD27Rnc"
+      }
+    ]
+  },
+  {
+    "series": "Critical Role",
+    "season": "Campaign 1",
+    "episode": "7",
+    "ordinal": 6,
+    "title": "The Throne Room",
+    "links": {
+      "Geek and Sundry": "https://geekandsundry.com/critical-role-episode-7/"
+    },
+    "productions": [
+      {
+        "producer": "Geek and Sundry"
+      }
+    ],
+    "publications": [
+      {
+        "publisher": "Geek and Sundry"
+      }
+    ],
+    "distributions": [
+      {
+        "distributor": "YouTube",
+        "media_id": "XGs3bOX4XFQ"
+      }
+    ]
+  },
+  {
+    "series": "Critical Role",
+    "season": "Campaign 1",
+    "episode": "8",
+    "ordinal": 7,
+    "title": "Glass and Bone",
+    "links": {
+      "Geek and Sundry": "https://geekandsundry.com/critical-role-episode-8/"
+    },
+    "productions": [
+      {
+        "producer": "Geek and Sundry"
+      }
+    ],
+    "publications": [
+      {
+        "publisher": "Geek and Sundry"
+      }
+    ],
+    "distributions": [
+      {
+        "distributor": "YouTube",
+        "media_id": "A14MzQxxdwM"
+      }
+    ]
+  },
+  {
+    "series": "Critical Role",
+    "season": "Campaign 1",
+    "episode": "9",
+    "ordinal": 8,
+    "title": "Yug'voril Uncovered",
+    "links": {
+      "Geek and Sundry": "https://geekandsundry.com/critical-role-episode-9/"
+    },
+    "productions": [
+      {
+        "producer": "Geek and Sundry"
+      }
+    ],
+    "publications": [
+      {
+        "publisher": "Geek and Sundry"
+      }
+    ],
+    "distributions": [
+      {
+        "distributor": "YouTube",
+        "media_id": "IsLIiKFSJLQ"
+      }
+    ]
+  },
+  {
+    "series": "Critical Role",
+    "season": "Campaign 1",
+    "episode": "10",
+    "ordinal": 9,
+    "title": "K'Varn Revealed",
+    "links": {
+      "Geek and Sundry": "https://geekandsundry.com/critical-role-episode-10/"
+    },
+    "productions": [
+      {
+        "producer": "Geek and Sundry"
+      }
+    ],
+    "publications": [
+      {
+        "publisher": "Geek and Sundry"
+      }
+    ],
+    "distributions": [
+      {
+        "distributor": "YouTube",
+        "media_id": "AvnaMU7Dr-E"
+      }
+    ]
+  },
+  {
     "series": "Critical Role Podcast",
     "season": "Campaign 1",
     "episode": "1",
