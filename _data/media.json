@@ -1,0 +1,78 @@
+[
+  {
+    "series": "Critical Role",
+    "season": "Campaign 1",
+    "number": "1",
+    "ordinal": 0,
+    "title": "Arrival at Kraghammer",
+    "air_date": "2015-03-12T19:00:00-0700",
+    "runtime": 10987,
+    "links": {
+      "Geek and Sundry": "https://geekandsundry.com/critical-role-episode-1/"
+    },
+    "producers": [
+      "Geek and Sundry"
+    ],
+    "publishers": [
+      "Geek and Sundry"
+    ],
+    "distributors": [
+      {
+        "name": "Twitch",
+        "media_id": ""
+      },
+      {
+        "name": "YouTube",
+        "media_id": "i-p9lWIhcLQ"
+      }
+    ]
+  },
+  {
+    "series": "Critical Role Podcast",
+    "season": "Campaign 1",
+    "number": "1",
+    "ordinal": 0,
+    "title": "Arrival at Kraghammer",
+    "air_date": "",
+    "runtime": 0,
+    "links": {},
+    "producers": [
+      "Geek and Sundry"
+    ],
+    "publishers": [
+      "Geek and Sundry"
+    ],
+    "distributors": [
+      {
+        "service": "Apple Podcasts",
+        "media_id": "1243705452"
+      },
+      {
+        "service": "Critical Role Podcast",
+        "media_id": "episode-1-arrival-at-kraghammer"
+      },
+      {
+        "service": "Google Podcasts",
+        "media_id": "Dhlquhkfxrjwlfpfmwzcydktgge"
+      }
+    ]
+  },
+  {
+    "title": "Critmas with Marisha and Matt!",
+    "air_date": "2016-09-22T03:33:12+0000",
+    "runtime": 4347,
+    "links": {},
+    "producers": [
+      "Matthew Mercer"
+    ],
+    "publishers": [
+      "Matthew Mercer"
+    ],
+    "distributors": [
+      {
+        "service": "Periscope",
+        "media_id": "1nAKEDZznjoxL"
+      }
+    ]
+  }
+]
