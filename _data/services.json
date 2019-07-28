@@ -1,0 +1,124 @@
+[
+  {
+    "name": "Alpha",
+    "operator": "Legendary Digital Networks",
+    "links": {
+      "Home": "https://www.projectalpha.com/"
+    },
+    "services": {
+      "Instagram": {
+        "user_id": "jointeamalpha"
+      },
+      "Twitter": {
+        "user_id": "jointeamalpha"
+      }
+    }
+  },
+  {
+    "name": "Apple Podcasts",
+    "operator": "Apple, Inc.",
+    "links": {
+      "Home": "https://www.apple.com/itunes/podcasts/"
+    }
+  },
+  {
+    "name": "Critical Role Podcast",
+    "operator": "Geek and Sundry",
+    "links": {
+      "Home": "http://criticalrolepodcast.geekandsundry.com/"
+    },
+    "media_link_pattern": "http://criticalrolepodcast.geekandsundry.com/e/{media_id}/"
+  },
+  {
+    "name": "Facebook",
+    "operator": "Facebook, Inc.",
+    "user_link_pattern": "https://www.facebook.com/{user_id}"
+  },
+  {
+    "name": "Google Podcasts",
+    "operator": "Google, LLC",
+    "links": {
+      "Home": "https://podcasts.google.com/"
+    },
+    "user_link_pattern": "https://play.google.com/music/m/{user_id}",
+    "media_link_pattern": "https://play.google.com/music/m/{media_id}"
+  },
+  {
+    "name": "Instagram",
+    "operator": "Facebook, Inc.",
+    "links": {
+      "Home": "https://www.instagram.com/"
+    },
+    "user_link_pattern": "https://www.instagram.com/{user_id}"
+  },
+  {
+    "name": "LinkedIn",
+    "operator": "LinkedIn Corporation",
+    "links": {
+      "Home": "https://www.linkedin.com/"
+    },
+    "user_link_pattern": "https://www.linkedin.com/in/{user_id}/",
+    "organization_link_pattern": "https://www.linkedin.com/company/{organization_id}/"
+  },
+  {
+    "name": "Periscope",
+    "operator": "Twitter, Inc.",
+    "links": {
+      "Home": "https://www.periscope.tv/"
+    },
+    "media_link_pattern": "https://www.periscope.tv/{user_id}/{media_id}",
+    "user_link_pattern": "https://www.periscope.tv/{user_id}/"
+  },
+  {
+    "name": "Pinterest",
+    "operator": "Pinterest, Inc.",
+    "links": {
+      "Home": "https://www.pinterest.com/"
+    },
+    "user_link_pattern": "https://www.pinterest.com/{user_id}/"
+  },
+  {
+    "name": "PodBean",
+    "operator": "Podbean Tech, LLC",
+    "links": {
+      "Home": "https://www.podbean.com/"
+    },
+    "media_link_pattern": "https://{user_id}.podbean.com/e/{media_id}",
+    "user_link_pattern": "https://{user_id}.podbean.com/"
+  },
+  {
+    "name": "Spotify",
+    "operator": "Spotify Technology S.A.",
+    "links": {
+      "Home": "https://www.spotify.com/"
+    },
+    "media_link_pattern": "https://open.spotify.com/episode/{media_id}",
+    "user_link_pattern": "https://open.spotify.com/show/{user_id}"
+  },
+  {
+    "name": "Twitch",
+    "operator": "Twitch Interactive, Inc.",
+    "links": {
+      "Home": "https://www.twitch.tv/"
+    },
+    "user_link_pattern": "https://www.twitch.tv/{user_id}/"
+  },
+  {
+    "name": "Twitter",
+    "operator": "Twitter, Inc.",
+    "links": {
+      "Home": "https://www.twitter.com/"
+    },
+    "media_link_pattern": "https://twitter.com/{user_id}/status/{media_id}",
+    "user_link_pattern": "https://www.twitter.com/{user_id}"
+  },
+  {
+    "name": "YouTube",
+    "operator": "YouTube, LLC",
+    "links": {
+      "Home": "https://www.youtube.com/"
+    },
+    "media_link_pattern": "https://www.youtube.com/watch?v={media_id}",
+    "user_link_pattern": "https://www.youtube.com/channel/{user_id}"
+  }
+]
