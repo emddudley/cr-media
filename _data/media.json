@@ -2,7 +2,7 @@
   {
     "series": "Critical Role",
     "season": "Campaign 1",
-    "number": "1",
+    "episode": "1",
     "ordinal": 0,
     "title": "Arrival at Kraghammer",
     "air_date": "2015-03-12T19:00:00-0700",
@@ -30,7 +30,7 @@
   {
     "series": "Critical Role Podcast",
     "season": "Campaign 1",
-    "number": "1",
+    "episode": "1",
     "ordinal": 0,
     "title": "Arrival at Kraghammer",
     "air_date": "",
