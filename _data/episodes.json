@@ -1,7 +1,7 @@
 {
-  "episodes": [
+  "media": [
     {
-      "show": "Critical Role",
+      "series": "Critical Role",
       "season": "Campaign 1",
       "number": "1",
       "ordinal": 0,
@@ -29,7 +29,7 @@
       ]
     },
     {
-      "show": "Critical Role Podcast",
+      "series": "Critical Role Podcast",
       "season": "Campaign 1",
       "number": "1",
       "ordinal": 0,
@@ -57,45 +57,43 @@
           "media_id": "Dhlquhkfxrjwlfpfmwzcydktgge"
         }
       ]
+    },
+    {
+      "title": "Critmas with Marisha and Matt!",
+      "air_date": "2016-09-22T03:33:12+0000",
+      "runtime": 4347,
+      "links": {},
+      "producers": [
+        "Matthew Mercer"
+      ],
+      "publishers": [
+        "Matthew Mercer"
+      ],
+      "distributors": [
+        {
+          "service": "Periscope",
+          "media_id": "1nAKEDZznjoxL"
+        }
+      ]
     }
   ],
-  "seasons": [
-    {
-      "name": "Campaign 1",
-      "show": "Critical Role",
-      "ordinal": 0,
-      "links": {
-        "Critical Role": "https://critrole.com/campaign-1/"
-      }
-    },
-    {
-      "name": "Campaign 1",
-      "show": "Critical Role Podcast",
-      "ordinal": 0,
-      "links": {
-        "Critical Role": "https://critrole.com/campaign-1-podcast/"
-      }
-    },
-    {
-      "name": "Campaign 2",
-      "show": "Critical Role",
-      "ordinal": 1,
-      "links": {
-        "Critical Role": "https://critrole.com/campaign-2/"
-      }
-    },
-    {
-      "name": "Campaign 2",
-      "show": "Critical Role Podcast",
-      "ordinal": 0,
-      "links": {
-        "Critical Role": "https://critrole.com/campaign-2-podcast/"
-      }
-    }
-  ],
-  "shows": [
+  "series": [
     {
       "name": "Critical Role",
+      "seasons": [
+        {
+          "name": "Campaign 1",
+          "links": {
+            "Critical Role": "https://critrole.com/campaign-1/"
+          }
+        },
+        {
+          "name": "Campaign 2",
+          "links": {
+            "Critical Role": "https://critrole.com/campaign-2/"
+          }
+        }
+      ],
       "links": {
         "Critical Role": "https://critrole.com/",
         "Geek and Sundry": "https://geekandsundry.com/shows/critical-role/"
@@ -103,6 +101,20 @@
     },
     {
       "name": "Critical Role Podcast",
+      "seasons": [
+        {
+          "name": "Campaign 1",
+          "links": {
+            "Critical Role": "https://critrole.com/campaign-1-podcast/"
+          }
+        },
+        {
+          "name": "Campaign 2",
+          "links": {
+            "Critical Role": "https://critrole.com/campaign-2-podcast/"
+          }
+        }
+      ],
       "links": {
         "Critical Role": "https://critrole.com/",
         "Geek and Sundry": "http://criticalrolepodcast.geekandsundry.com/"
@@ -172,6 +184,15 @@
       "organization_link_pattern": "https://www.linkedin.com/company/{organization_id}/"
     },
     {
+      "name": "Periscope",
+      "operator": "Twitter, Inc.",
+      "links": {
+        "Home": "https://www.periscope.tv/"
+      },
+      "media_link_pattern": "https://www.periscope.tv/{user_id}/{media_id}",
+      "user_link_pattern": "https://www.periscope.tv/{user_id}/"
+    },
+    {
       "name": "Pinterest",
       "operator": "Pinterest, Inc.",
       "links": {
@@ -224,7 +245,7 @@
       "user_link_pattern": "https://www.youtube.com/channel/{user_id}"
     }
   ],
-  "organizations": [
+  "entities": [
     {
       "name": "Apple, Inc."
     },
@@ -276,6 +297,14 @@
       "name": "Legendary Geek & Sundry, LLC",
       "links": {
         "Home": "https://geekandsundry.com/"
+      }
+    },
+    {
+      "name": "Matthew Mercer",
+      "services": {
+        "Periscope": {
+          "user_id": "matthewmercer"
+        }
       }
     },
     {
