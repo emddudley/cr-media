@@ -1,0 +1,84 @@
+[
+  {
+    "name": "Apple, Inc."
+  },
+  {
+    "name": "CRP Services, LLC",
+    "links": {
+      "Home": "https://critrole.com/"
+    }
+  },
+  {
+    "name": "Critical Role",
+    "services": {
+      "Facebook": {
+        "user_id": "criticalrole"
+      },
+      "Instagram": {
+        "user_id": "critical_role"
+      },
+      "LinkedIn": {
+        "organization_id": "critical-role"
+      },
+      "Pinterest": {
+        "user_id": "criticalrole"
+      },
+      "PodBean": {
+        "user_id": "critrole"
+      },
+      "Twitch": {
+        "user_id": "criticalrole"
+      },
+      "Twitter": {
+        "user_id": "criticalrole"
+      }
+    }
+  },
+  {
+    "name": "Facebook, Inc."
+  },
+  {
+    "name": "Geek and Sundry"
+  },
+  {
+    "name": "Google, LLC"
+  },
+  {
+    "name": "Legendary Digital Networks"
+  },
+  {
+    "name": "Legendary Geek & Sundry, LLC",
+    "links": {
+      "Home": "https://geekandsundry.com/"
+    }
+  },
+  {
+    "name": "Matthew Mercer",
+    "services": {
+      "Periscope": {
+        "user_id": "matthewmercer"
+      }
+    }
+  },
+  {
+    "name": "Pinterest, Inc."
+  },
+  {
+    "name": "Podbean Tech, LLC"
+  },
+  {
+    "name": "Spotify Technology S.A."
+  },
+  {
+    "name": "Twitch Interactive, Inc."
+  },
+  {
+    "name": "Twitter, Inc.",
+    "links": {
+      "Home": "https://www.twitter.com/"
+    }
+  },
+  {
+    "name": "YouTube, LLC"
+  }
+]
