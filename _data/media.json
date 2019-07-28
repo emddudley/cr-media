@@ -10,19 +10,23 @@
     "links": {
       "Geek and Sundry": "https://geekandsundry.com/critical-role-episode-1/"
     },
-    "producers": [
-      "Geek and Sundry"
-    ],
-    "publishers": [
-      "Geek and Sundry"
-    ],
-    "distributors": [
+    "productions": [
       {
-        "name": "Twitch",
+        "producer": "Geek and Sundry"
+      }
+    ],
+    "publications": [
+      {
+        "publisher": "Geek and Sundry"
+      }
+    ],
+    "distributions": [
+      {
+        "distributor": "Twitch",
         "media_id": ""
       },
       {
-        "name": "YouTube",
+        "distributor": "YouTube",
         "media_id": "i-p9lWIhcLQ"
       }
     ]
@@ -36,23 +40,27 @@
     "air_date": "",
     "runtime": 0,
     "links": {},
-    "producers": [
-      "Geek and Sundry"
-    ],
-    "publishers": [
-      "Geek and Sundry"
-    ],
-    "distributors": [
+    "productions": [
       {
-        "service": "Apple Podcasts",
+        "producer": "Geek and Sundry"
+      }
+    ],
+    "publications": [
+      {
+        "publisher": "Geek and Sundry"
+      }
+    ],
+    "distributions": [
+      {
+        "distributor": "Apple Podcasts",
         "media_id": "1243705452"
       },
       {
-        "service": "Critical Role Podcast",
+        "distributor": "Critical Role Podcast",
         "media_id": "episode-1-arrival-at-kraghammer"
       },
       {
-        "service": "Google Podcasts",
+        "distributor": "Google Podcasts",
         "media_id": "Dhlquhkfxrjwlfpfmwzcydktgge"
       }
     ]
@@ -62,15 +70,19 @@
     "air_date": "2016-09-22T03:33:12+0000",
     "runtime": 4347,
     "links": {},
-    "producers": [
-      "Matthew Mercer"
-    ],
-    "publishers": [
-      "Matthew Mercer"
-    ],
-    "distributors": [
+    "productions": [
       {
-        "service": "Periscope",
+        "producer": "Matthew Mercer"
+      }
+    ],
+    "publications": [
+      {
+        "publisher": "Matthew Mercer"
+      }
+    ],
+    "distributions": [
+      {
+        "distributor": "Periscope",
         "media_id": "1nAKEDZznjoxL"
       }
     ]
