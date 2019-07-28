@@ -2,8 +2,10 @@
 layout: default
 title: Home
 ---
-{{ assign twitch_service = site.data.services | where:"name","Twitch" }}
-{{ assign youtube_service = site.data.services | where:"name","YouTube" }}
+{% assign twitch_service = site.data.services | where: "name","Twitch" | first %}
+{% assign youtube_service = site.data.services | where: "name","YouTube" | first %}
+{% assign media_id_token = "{media_id}" %}
+{% assign user_id_token = "{user_id}" %}
 
 # Critical Data
 
@@ -21,16 +23,16 @@ title: Home
   </thead>
   <tbody>
 {% for media in site.data.media %}
-{{ assign twitch_media_id = media.distributors | where:"name","Twitch" }}
-{{ assign youtube_media_id = media.distributors | where:"name","YouTube" }}
+{% assign twitch_distribution = media.distributors | where: "name","Twitch" | first %}
+{% assign youtube_distribution = media.distributors | where: "name","YouTube" | first %}
     <tr>
       <td>{{ media.series }}</td>
       <td>{{ media.season }}</td>
       <td>{{ media.episode }}</td>
       <td>{{ media.title }}</td>
       <td>{{ media.air_date }}</td>
-      <td><a href="{{ twitch_service.user_link_pattern | replace: "{% raw %}{media_id}{% endraw %}",twitch_media_id }}">Twitch</a></td>
-      <td><a href="{{ youtube_service.user_link_pattern | replace: "{% raw %}{media_id}{% endraw %}",youtube_media_id }}">YouTube</a></td>
+      <td><a href="{{ twitch_service.media_link_pattern | replace: media_id_token,.twitch_distribution.media_id }}">Twitch</a></td>
+      <td><a href="{{ youtube_service.media_link_pattern | replace: media_id_token,youtube_distribution.media_id }}">YouTube</a></td>
     </tr>
 {% endfor %}
   </tbody>
