@@ -3,10 +3,8 @@
     "series": "Critical Role",
     "season": "Campaign 1",
     "episode": "1",
-    "ordinal": 0,
     "title": "Arrival at Kraghammer",
-    "air_date": "2015-03-12T19:00:00-0700",
-    "runtime": 10987,
+    "ordinal": 0,
     "links": {
       "Geek and Sundry": "https://geekandsundry.com/critical-role-episode-1/"
     },
@@ -23,11 +21,14 @@
     "distributions": [
       {
         "distributor": "Twitch",
-        "media_id": ""
+        "media_id": "",
+        "date": "2015-03-12T19:00:00-0700"
       },
       {
         "distributor": "YouTube",
-        "media_id": "i-p9lWIhcLQ"
+        "media_id": "i-p9lWIhcLQ",
+        "date": "2015-06-24",
+        "duration": 10987
       }
     ]
   },
@@ -35,8 +36,8 @@
     "series": "Critical Role",
     "season": "Campaign 1",
     "episode": "2",
-    "ordinal": 1,
     "title": "Into the Greyspine Mines",
+    "ordinal": 1,
     "links": {
       "Geek and Sundry": "https://geekandsundry.com/critical-role-episode-2/"
     },
@@ -61,8 +62,8 @@
     "series": "Critical Role",
     "season": "Campaign 1",
     "episode": "3",
-    "ordinal": 2,
     "title": "Strange Bedfellows",
+    "ordinal": 2,
     "links": {
       "Geek and Sundry": "https://geekandsundry.com/critical-role-episode-3/"
     },
@@ -87,8 +88,8 @@
     "series": "Critical Role",
     "season": "Campaign 1",
     "episode": "4",
-    "ordinal": 3,
     "title": "Attack on the Duergar Warcamp",
+    "ordinal": 3,
     "links": {
       "Geek and Sundry": "https://geekandsundry.com/critical-role-episode-4/"
     },
@@ -113,8 +114,8 @@
     "series": "Critical Role",
     "season": "Campaign 1",
     "episode": "5",
-    "ordinal": 4,
     "title": "The Trick About Falling",
+    "ordinal": 4,
     "links": {
       "Geek and Sundry": "https://geekandsundry.com/critical-role-episode-5/"
     },
@@ -139,8 +140,8 @@
     "series": "Critical Role",
     "season": "Campaign 1",
     "episode": "6",
-    "ordinal": 5,
     "title": "Breaching the Emberhold",
+    "ordinal": 5,
     "links": {
       "Geek and Sundry": "https://geekandsundry.com/critical-role-episode-6/"
     },
@@ -165,8 +166,8 @@
     "series": "Critical Role",
     "season": "Campaign 1",
     "episode": "7",
-    "ordinal": 6,
     "title": "The Throne Room",
+    "ordinal": 6,
     "links": {
       "Geek and Sundry": "https://geekandsundry.com/critical-role-episode-7/"
     },
@@ -191,8 +192,8 @@
     "series": "Critical Role",
     "season": "Campaign 1",
     "episode": "8",
-    "ordinal": 7,
     "title": "Glass and Bone",
+    "ordinal": 7,
     "links": {
       "Geek and Sundry": "https://geekandsundry.com/critical-role-episode-8/"
     },
@@ -217,8 +218,8 @@
     "series": "Critical Role",
     "season": "Campaign 1",
     "episode": "9",
-    "ordinal": 8,
     "title": "Yug'voril Uncovered",
+    "ordinal": 8,
     "links": {
       "Geek and Sundry": "https://geekandsundry.com/critical-role-episode-9/"
     },
@@ -243,8 +244,8 @@
     "series": "Critical Role",
     "season": "Campaign 1",
     "episode": "10",
-    "ordinal": 9,
     "title": "K'Varn Revealed",
+    "ordinal": 9,
     "links": {
       "Geek and Sundry": "https://geekandsundry.com/critical-role-episode-10/"
     },
@@ -269,10 +270,8 @@
     "series": "Critical Role Podcast",
     "season": "Campaign 1",
     "episode": "1",
-    "ordinal": 0,
     "title": "Arrival at Kraghammer",
-    "air_date": "",
-    "runtime": 0,
+    "ordinal": 0,
     "links": {},
     "productions": [
       {
@@ -301,8 +300,6 @@
   },
   {
     "title": "Critmas with Marisha and Matt!",
-    "air_date": "2016-09-22T03:33:12+0000",
-    "runtime": 4347,
     "links": {},
     "productions": [
       {
@@ -318,7 +315,9 @@
       {
         "distributor": "Periscope",
         "user_id": "matthewmercer",
-        "media_id": "1nAKEDZznjoxL"
+        "media_id": "1nAKEDZznjoxL",
+        "date": "2016-09-22T03:33:12+0000",
+        "duration": 4347
       }
     ]
   }

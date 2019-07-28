@@ -7,10 +7,10 @@ title: Home
 
 # Critical Data
 
-Series | Season | Episode | Title | Air Date | Links
------- | ------ | ------- | ----- | -------- | -----
+Series | Season | Episode | Title | Links
+------ | ------ | ------- | ----- | -----
 {% for media in site.data.media -%}
-  {{ media.series }} | {{ media.season }} | {{ media.episode }} | {{ media.title }} | {{ media.air_date }} |
+  {{ media.series }} | {{ media.season }} | {{ media.episode }} | {{ media.title }} |
   {%- assign distribution_links = "" -%}
   {%- for distribution in media.distributions -%}
     {%- assign service = site.data.services | where: "name",distribution.distributor | first -%}
