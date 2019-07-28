@@ -1,0 +1,44 @@
+[
+  {
+    "name": "Critical Role",
+    "seasons": [
+      {
+        "name": "Campaign 1",
+        "links": {
+          "Critical Role": "https://critrole.com/campaign-1/"
+        }
+      },
+      {
+        "name": "Campaign 2",
+        "links": {
+          "Critical Role": "https://critrole.com/campaign-2/"
+        }
+      }
+    ],
+    "links": {
+      "Critical Role": "https://critrole.com/",
+      "Geek and Sundry": "https://geekandsundry.com/shows/critical-role/"
+    }
+  },
+  {
+    "name": "Critical Role Podcast",
+    "seasons": [
+      {
+        "name": "Campaign 1",
+        "links": {
+          "Critical Role": "https://critrole.com/campaign-1-podcast/"
+        }
+      },
+      {
+        "name": "Campaign 2",
+        "links": {
+          "Critical Role": "https://critrole.com/campaign-2-podcast/"
+        }
+      }
+    ],
+    "links": {
+      "Critical Role": "https://critrole.com/",
+      "Geek and Sundry": "http://criticalrolepodcast.geekandsundry.com/"
+    }
+  }
+]
