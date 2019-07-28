@@ -13,10 +13,12 @@ title: Home
     </tr>
   </thead>
   <tbody>
-    <tr>
 {% for media in site.data.media %}
+    <tr>
+      <td>{{ media.series }}</td>
+      <td>{{ media.episode }}</td>
       <td>{{ media.title }}</td>
-{% endfor %}
     </tr>
+{% endfor %}
   </tbody>
 </table>
