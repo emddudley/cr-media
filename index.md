@@ -14,7 +14,7 @@ Series | Season | Episode | Title | Air Date | Links
   {%- assign distribution_links = "" -%}
   {%- for distribution in media.distributions -%}
     {%- assign service = site.data.services | where: "name",distribution.distributor | first -%}
-    {%- assign media_link = service.media_link_pattern | replace: media_id_token,distribution.media_id -%}
+    {%- assign media_link = service.media_link_pattern | replace: media_id_token,distribution.media_id | replace: user_id_token,distribution.user_id -%}
     {%- assign distribution_links = distribution_links | append: "[" | append: distribution.distributor | append: "](" | append: media_link | append: ")" -%}
   {%- endfor -%}
   {{ distribution_links | split: ")[" | join: "), [" }}
