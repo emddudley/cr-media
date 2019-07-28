@@ -12,6 +12,8 @@ title: Home
       <th>Episode</th>
       <th>Title</th>
       <th>Air Date</th>
+      <th>Twitch</th>
+      <th>YouTube</th>
     </tr>
   </thead>
   <tbody>
@@ -22,6 +24,8 @@ title: Home
       <td>{{ media.episode }}</td>
       <td>{{ media.title }}</td>
       <td>{{ media.air_date }}</td>
+      <td>{{ media.distributors | where:"name","Twitch" }}</td>
+      <td>{{ media.distributors | where:"name","YouTube" }}</td>
     </tr>
 {% endfor %}
   </tbody>
