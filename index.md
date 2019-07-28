@@ -14,7 +14,7 @@ title: Home
   </thead>
   <tbody>
     <tr>
-{% for media in site.data.episodes[media] %}
+{% for media in site.data.media %}
       <td>{{ media.title }}</td>
 {% endfor %}
     </tr>
