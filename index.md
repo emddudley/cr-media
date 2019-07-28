@@ -29,8 +29,8 @@ title: Home
       <td>{{ media.episode }}</td>
       <td>{{ media.title }}</td>
       <td>{{ media.air_date }}</td>
-      <td><a href="{{ twitch_service.user_link_pattern | replace: "{media_id}",twitch_media_id }}">Twitch</a></td>
-      <td><a href="{{ youtube_service.user_link_pattern | replace: "{media_id}",youtube_media_id }}">YouTube</a></td>
+      <td><a href="{{ twitch_service.user_link_pattern | replace: "{% raw %}{media_id}{% endraw %}",twitch_media_id }}">Twitch</a></td>
+      <td><a href="{{ youtube_service.user_link_pattern | replace: "{% raw %}{media_id}{% endraw %}",youtube_media_id }}">YouTube</a></td>
     </tr>
 {% endfor %}
   </tbody>
