@@ -267,6 +267,995 @@
     ]
   },
   {
+    "distributions": [
+      {
+        "date": "2015-09-09T21:00:01.000Z",
+        "distributor": "YouTube",
+        "media_id": "xoYyHYsl5po"
+      }
+    ],
+    "episode": "11",
+    "links": {
+      "Geek and Sundry": "https://geekandsundry.com/critical-role-episode-11/"
+    },
+    "ordinal": 10,
+    "productions": [
+      {
+        "producer": "Geek and Sundry"
+      }
+    ],
+    "publications": [
+      {
+        "publisher": "Geek and Sundry"
+      }
+    ],
+    "season": "Campaign 1",
+    "series": "Critical Role",
+    "title": "The Temple Showdown"
+  },
+  {
+    "distributions": [
+      {
+        "date": "2015-09-18T16:47:19.000Z",
+        "distributor": "YouTube",
+        "media_id": "P8EcS0WYbuc"
+      }
+    ],
+    "episode": "12",
+    "links": {
+      "Geek and Sundry": "https://geekandsundry.com/critical-role-episode-12/"
+    },
+    "ordinal": 11,
+    "productions": [
+      {
+        "producer": "Geek and Sundry"
+      }
+    ],
+    "publications": [
+      {
+        "publisher": "Geek and Sundry"
+      }
+    ],
+    "season": "Campaign 1",
+    "series": "Critical Role",
+    "title": "Dungeons & Dragons Campaign Tips"
+  },
+  {
+    "distributions": [
+      {
+        "date": "2015-09-24T19:30:00.000Z",
+        "distributor": "YouTube",
+        "media_id": "315mZGX-mjs"
+      }
+    ],
+    "episode": "13",
+    "links": {
+      "Geek and Sundry": "https://geekandsundry.com/critical-role-episode-13/"
+    },
+    "ordinal": 12,
+    "productions": [
+      {
+        "producer": "Geek and Sundry"
+      }
+    ],
+    "publications": [
+      {
+        "publisher": "Geek and Sundry"
+      }
+    ],
+    "season": "Campaign 1",
+    "series": "Critical Role",
+    "title": "Escape from the Underdark"
+  },
+  {
+    "distributions": [
+      {
+        "date": "2015-09-30T21:00:01.000Z",
+        "distributor": "YouTube",
+        "media_id": "Z4tjssfei5E"
+      }
+    ],
+    "episode": "14",
+    "links": {
+      "Geek and Sundry": "https://geekandsundry.com/critical-role-episode-14/"
+    },
+    "ordinal": 13,
+    "productions": [
+      {
+        "producer": "Geek and Sundry"
+      }
+    ],
+    "publications": [
+      {
+        "publisher": "Geek and Sundry"
+      }
+    ],
+    "season": "Campaign 1",
+    "series": "Critical Role",
+    "title": "Shopping and Shipping"
+  },
+  {
+    "distributions": [
+      {
+        "date": "2015-10-07T20:00:02.000Z",
+        "distributor": "YouTube",
+        "media_id": "_dIBh0dGhzI"
+      }
+    ],
+    "episode": "15",
+    "links": {
+      "Geek and Sundry": "https://geekandsundry.com/critical-role-episode-15/"
+    },
+    "ordinal": 14,
+    "productions": [
+      {
+        "producer": "Geek and Sundry"
+      }
+    ],
+    "publications": [
+      {
+        "publisher": "Geek and Sundry"
+      }
+    ],
+    "season": "Campaign 1",
+    "series": "Critical Role",
+    "title": "Skyward"
+  },
+  {
+    "distributions": [
+      {
+        "date": "2015-10-14T23:00:01.000Z",
+        "distributor": "YouTube",
+        "media_id": "elarLmuDtzU"
+      }
+    ],
+    "episode": "16",
+    "links": {
+      "Geek and Sundry": "https://geekandsundry.com/critical-role-episode-16/"
+    },
+    "ordinal": 15,
+    "productions": [
+      {
+        "producer": "Geek and Sundry"
+      }
+    ],
+    "publications": [
+      {
+        "publisher": "Geek and Sundry"
+      }
+    ],
+    "season": "Campaign 1",
+    "series": "Critical Role",
+    "title": "Enter Vasselheim"
+  },
+  {
+    "distributions": [
+      {
+        "date": "2015-10-21T21:00:00.000Z",
+        "distributor": "YouTube",
+        "media_id": "QDdT5UqGaDw"
+      }
+    ],
+    "episode": "17",
+    "links": {
+      "Geek and Sundry": "https://geekandsundry.com/critical-role-episode-17/"
+    },
+    "ordinal": 16,
+    "productions": [
+      {
+        "producer": "Geek and Sundry"
+      }
+    ],
+    "publications": [
+      {
+        "publisher": "Geek and Sundry"
+      }
+    ],
+    "season": "Campaign 1",
+    "series": "Critical Role",
+    "title": "Hubris"
+  },
+  {
+    "distributions": [
+      {
+        "date": "2015-10-29T21:00:00.000Z",
+        "distributor": "YouTube",
+        "media_id": "60sUkTh6xBc"
+      }
+    ],
+    "episode": "18",
+    "links": {
+      "Geek and Sundry": "https://geekandsundry.com/critical-role-episode-18/"
+    },
+    "ordinal": 17,
+    "productions": [
+      {
+        "producer": "Geek and Sundry"
+      }
+    ],
+    "publications": [
+      {
+        "publisher": "Geek and Sundry"
+      }
+    ],
+    "season": "Campaign 1",
+    "series": "Critical Role",
+    "title": "Trial of the Take"
+  },
+  {
+    "distributions": [
+      {
+        "date": "2015-11-06T00:00:00.000Z",
+        "distributor": "YouTube",
+        "media_id": "IW6GgFQg3kk"
+      }
+    ],
+    "episode": "19",
+    "links": {
+      "Geek and Sundry": "https://geekandsundry.com/critical-role-episode-19/"
+    },
+    "ordinal": 18,
+    "productions": [
+      {
+        "producer": "Geek and Sundry"
+      }
+    ],
+    "publications": [
+      {
+        "publisher": "Geek and Sundry"
+      }
+    ],
+    "season": "Campaign 1",
+    "series": "Critical Role",
+    "title": "Trial of the Take, Part 2"
+  },
+  {
+    "distributions": [
+      {
+        "date": "2015-11-12T01:00:00.000Z",
+        "distributor": "YouTube",
+        "media_id": "GFU_qqwSs0U"
+      }
+    ],
+    "episode": "20",
+    "links": {
+      "Geek and Sundry": "https://geekandsundry.com/critical-role-episode-20/"
+    },
+    "ordinal": 19,
+    "productions": [
+      {
+        "producer": "Geek and Sundry"
+      }
+    ],
+    "publications": [
+      {
+        "publisher": "Geek and Sundry"
+      }
+    ],
+    "season": "Campaign 1",
+    "series": "Critical Role",
+    "title": "Trial of the Take, Part 3"
+  },
+  {
+    "distributions": [
+      {
+        "date": "2015-11-20T02:00:01.000Z",
+        "distributor": "YouTube",
+        "media_id": "zGaISHs2s7Q"
+      }
+    ],
+    "episode": "21",
+    "links": {
+      "Geek and Sundry": "https://geekandsundry.com/critical-role-episode-21/"
+    },
+    "ordinal": 20,
+    "productions": [
+      {
+        "producer": "Geek and Sundry"
+      }
+    ],
+    "publications": [
+      {
+        "publisher": "Geek and Sundry"
+      }
+    ],
+    "season": "Campaign 1",
+    "series": "Critical Role",
+    "title": "Trial of the Take, Part 4"
+  },
+  {
+    "distributions": [
+      {
+        "date": "2015-12-04T18:00:00.000Z",
+        "distributor": "YouTube",
+        "media_id": "1GY3HTZE5R0"
+      }
+    ],
+    "episode": "22",
+    "links": {
+      "Geek and Sundry": "https://geekandsundry.com/critical-role-episode-22/"
+    },
+    "ordinal": 21,
+    "productions": [
+      {
+        "producer": "Geek and Sundry"
+      }
+    ],
+    "publications": [
+      {
+        "publisher": "Geek and Sundry"
+      }
+    ],
+    "season": "Campaign 1",
+    "series": "Critical Role",
+    "title": "Aramente to Pyrah"
+  },
+  {
+    "distributions": [
+      {
+        "date": "2015-12-07T18:00:00.000Z",
+        "distributor": "YouTube",
+        "media_id": "FM6L4tuyXq0"
+      }
+    ],
+    "episode": "23",
+    "links": {
+      "Geek and Sundry": "https://geekandsundry.com/critical-role-episode-23/"
+    },
+    "ordinal": 22,
+    "productions": [
+      {
+        "producer": "Geek and Sundry"
+      }
+    ],
+    "publications": [
+      {
+        "publisher": "Geek and Sundry"
+      }
+    ],
+    "season": "Campaign 1",
+    "series": "Critical Role",
+    "title": "The Rematch"
+  },
+  {
+    "distributions": [
+      {
+        "date": "2015-12-09T21:00:01.000Z",
+        "distributor": "YouTube",
+        "media_id": "kre27f30IVs"
+      }
+    ],
+    "episode": "24",
+    "links": {
+      "Geek and Sundry": "https://geekandsundry.com/critical-role-episode-24/"
+    },
+    "ordinal": 23,
+    "productions": [
+      {
+        "producer": "Geek and Sundry"
+      }
+    ],
+    "publications": [
+      {
+        "publisher": "Geek and Sundry"
+      }
+    ],
+    "season": "Campaign 1",
+    "series": "Critical Role",
+    "title": "The Feast"
+  },
+  {
+    "distributions": [
+      {
+        "date": "2015-12-16T22:30:00.000Z",
+        "distributor": "YouTube",
+        "media_id": "yrrB_q-V8G0"
+      }
+    ],
+    "episode": "25",
+    "links": {
+      "Geek and Sundry": "https://geekandsundry.com/critical-role-episode-25/"
+    },
+    "ordinal": 24,
+    "productions": [
+      {
+        "producer": "Geek and Sundry"
+      }
+    ],
+    "publications": [
+      {
+        "publisher": "Geek and Sundry"
+      }
+    ],
+    "season": "Campaign 1",
+    "series": "Critical Role",
+    "title": "Crimson Diplomacy"
+  },
+  {
+    "distributions": [
+      {
+        "date": "2015-12-23T19:00:01.000Z",
+        "distributor": "YouTube",
+        "media_id": "_2CCQnD4AQ8"
+      }
+    ],
+    "episode": "26",
+    "links": {
+      "Geek and Sundry": "https://geekandsundry.com/critical-role-episode-26/"
+    },
+    "ordinal": 25,
+    "productions": [
+      {
+        "producer": "Geek and Sundry"
+      }
+    ],
+    "publications": [
+      {
+        "publisher": "Geek and Sundry"
+      }
+    ],
+    "season": "Campaign 1",
+    "series": "Critical Role",
+    "title": "Consequences and Cows"
+  },
+  {
+    "distributions": [
+      {
+        "date": "2015-12-30T18:39:54.000Z",
+        "distributor": "YouTube",
+        "media_id": "2mB-aM2bIBk"
+      }
+    ],
+    "episode": "27",
+    "links": {
+      "Geek and Sundry": "https://geekandsundry.com/critical-role-episode-27/"
+    },
+    "ordinal": 26,
+    "productions": [
+      {
+        "producer": "Geek and Sundry"
+      }
+    ],
+    "publications": [
+      {
+        "publisher": "Geek and Sundry"
+      }
+    ],
+    "season": "Campaign 1",
+    "series": "Critical Role",
+    "title": "The Path to Whitestone"
+  },
+  {
+    "distributions": [
+      {
+        "date": "2016-01-06T19:00:01.000Z",
+        "distributor": "YouTube",
+        "media_id": "yE27NwtXjPY"
+      }
+    ],
+    "episode": "28",
+    "links": {
+      "Geek and Sundry": "https://geekandsundry.com/critical-role-episode-28/"
+    },
+    "ordinal": 27,
+    "productions": [
+      {
+        "producer": "Geek and Sundry"
+      }
+    ],
+    "publications": [
+      {
+        "publisher": "Geek and Sundry"
+      }
+    ],
+    "season": "Campaign 1",
+    "series": "Critical Role",
+    "title": "The Sun Tree"
+  },
+  {
+    "distributions": [
+      {
+        "date": "2016-01-13T18:00:24.000Z",
+        "distributor": "YouTube",
+        "media_id": "gq4av949-3Y"
+      }
+    ],
+    "episode": "29",
+    "links": {
+      "Geek and Sundry": "https://geekandsundry.com/critical-role-episode-29/"
+    },
+    "ordinal": 28,
+    "productions": [
+      {
+        "producer": "Geek and Sundry"
+      }
+    ],
+    "publications": [
+      {
+        "publisher": "Geek and Sundry"
+      }
+    ],
+    "season": "Campaign 1",
+    "series": "Critical Role",
+    "title": "Whispers"
+  },
+  {
+    "distributions": [
+      {
+        "date": "2016-01-20T19:00:00.000Z",
+        "distributor": "YouTube",
+        "media_id": "MtS1LGdqxuI"
+      }
+    ],
+    "episode": "30",
+    "links": {
+      "Geek and Sundry": "https://geekandsundry.com/critical-role-episode-30/"
+    },
+    "ordinal": 29,
+    "productions": [
+      {
+        "producer": "Geek and Sundry"
+      }
+    ],
+    "publications": [
+      {
+        "publisher": "Geek and Sundry"
+      }
+    ],
+    "season": "Campaign 1",
+    "series": "Critical Role",
+    "title": "Stoke the Flames"
+  },
+  {
+    "distributions": [
+      {
+        "date": "2016-01-27T20:30:00.000Z",
+        "distributor": "YouTube",
+        "media_id": "CVSgD1iB1G0"
+      },
+      {
+        "date": "2016-01-27T20:30:01.000Z",
+        "distributor": "YouTube",
+        "media_id": "K-k2JpMSa_k"
+      }
+    ],
+    "episode": "31",
+    "links": {
+      "Geek and Sundry": "https://geekandsundry.com/critical-role-episode-31/"
+    },
+    "ordinal": 30,
+    "productions": [
+      {
+        "producer": "Geek and Sundry"
+      }
+    ],
+    "publications": [
+      {
+        "publisher": "Geek and Sundry"
+      }
+    ],
+    "season": "Campaign 1",
+    "series": "Critical Role",
+    "title": "Gunpowder Plot"
+  },
+  {
+    "distributions": [
+      {
+        "date": "2016-02-03T19:00:00.000Z",
+        "distributor": "YouTube",
+        "media_id": "B5sUXSaTHKc"
+      }
+    ],
+    "episode": "32",
+    "links": {
+      "Geek and Sundry": "https://geekandsundry.com/critical-role-episode-32/"
+    },
+    "ordinal": 31,
+    "productions": [
+      {
+        "producer": "Geek and Sundry"
+      }
+    ],
+    "publications": [
+      {
+        "publisher": "Geek and Sundry"
+      }
+    ],
+    "season": "Campaign 1",
+    "series": "Critical Role",
+    "title": "Against the Tide of Bone"
+  },
+  {
+    "distributions": [
+      {
+        "date": "2016-02-10T18:00:01.000Z",
+        "distributor": "YouTube",
+        "media_id": "EtdswJtQ_Ew"
+      },
+      {
+        "date": "2016-02-10T18:01:05.000Z",
+        "distributor": "YouTube",
+        "media_id": "iP1gylnxfLU"
+      }
+    ],
+    "episode": "33",
+    "links": {
+      "Geek and Sundry": "https://geekandsundry.com/critical-role-episode-33/"
+    },
+    "ordinal": 32,
+    "productions": [
+      {
+        "producer": "Geek and Sundry"
+      }
+    ],
+    "publications": [
+      {
+        "publisher": "Geek and Sundry"
+      }
+    ],
+    "season": "Campaign 1",
+    "series": "Critical Role",
+    "title": "Reunions"
+  },
+  {
+    "distributions": [
+      {
+        "date": "2016-02-17T21:00:00.000Z",
+        "distributor": "YouTube",
+        "media_id": "2AqLu-u-GcY"
+      }
+    ],
+    "episode": "34",
+    "links": {
+      "Geek and Sundry": "https://geekandsundry.com/critical-role-episode-34/"
+    },
+    "ordinal": 33,
+    "productions": [
+      {
+        "producer": "Geek and Sundry"
+      }
+    ],
+    "publications": [
+      {
+        "publisher": "Geek and Sundry"
+      }
+    ],
+    "season": "Campaign 1",
+    "series": "Critical Role",
+    "title": "Race to the Ziggurat"
+  },
+  {
+    "distributions": [
+      {
+        "date": "2016-02-24T18:00:01.000Z",
+        "distributor": "YouTube",
+        "media_id": "p8p5qZcqIk0",
+        "title": "Part 1"
+      },
+      {
+        "date": "2016-02-24T18:00:30.000Z",
+        "distributor": "YouTube",
+        "media_id": "WFbmY79Qdfc",
+        "title": "Part 2"
+      }
+    ],
+    "episode": "35",
+    "links": {
+      "Geek and Sundry": "https://geekandsundry.com/critical-role-episode-35/"
+    },
+    "ordinal": 34,
+    "productions": [
+      {
+        "producer": "Geek and Sundry"
+      }
+    ],
+    "publications": [
+      {
+        "publisher": "Geek and Sundry"
+      }
+    ],
+    "season": "Campaign 1",
+    "series": "Critical Role",
+    "title": "Denouement"
+  },
+  {
+    "distributions": [
+      {
+        "date": "2016-03-02T19:30:00.000Z",
+        "distributor": "YouTube",
+        "media_id": "EikRMYRf5-Y"
+      }
+    ],
+    "episode": "36",
+    "links": {
+      "Geek and Sundry": "https://geekandsundry.com/critical-role-episode-36/"
+    },
+    "ordinal": 35,
+    "productions": [
+      {
+        "producer": "Geek and Sundry"
+      }
+    ],
+    "publications": [
+      {
+        "publisher": "Geek and Sundry"
+      }
+    ],
+    "season": "Campaign 1",
+    "series": "Critical Role",
+    "title": "Winter's Crest in Whitestone"
+  },
+  {
+    "distributions": [
+      {
+        "date": "2016-03-09T20:01:49.000Z",
+        "distributor": "YouTube",
+        "media_id": "1cbxJRfvBtI"
+      }
+    ],
+    "episode": "37",
+    "links": {
+      "Geek and Sundry": "https://geekandsundry.com/critical-role-episode-37/"
+    },
+    "ordinal": 36,
+    "productions": [
+      {
+        "producer": "Geek and Sundry"
+      }
+    ],
+    "publications": [
+      {
+        "publisher": "Geek and Sundry"
+      }
+    ],
+    "season": "Campaign 1",
+    "series": "Critical Role",
+    "title": "A Musician's Nostalgia"
+  },
+  {
+    "distributions": [
+      {
+        "date": "2016-03-16T19:00:00.000Z",
+        "distributor": "YouTube",
+        "media_id": "wCj4kCq1Z9Y"
+      }
+    ],
+    "episode": "38",
+    "links": {
+      "Geek and Sundry": "https://geekandsundry.com/critical-role-episode-38/"
+    },
+    "ordinal": 37,
+    "productions": [
+      {
+        "producer": "Geek and Sundry"
+      }
+    ],
+    "publications": [
+      {
+        "publisher": "Geek and Sundry"
+      }
+    ],
+    "season": "Campaign 1",
+    "series": "Critical Role",
+    "title": "Echoes of the Past"
+  },
+  {
+    "distributions": [
+      {
+        "date": "2016-03-23T18:00:01.000Z",
+        "distributor": "YouTube",
+        "media_id": "9EToAf4nhDw"
+      }
+    ],
+    "episode": "39",
+    "links": {
+      "Geek and Sundry": "https://geekandsundry.com/critical-role-episode-39/"
+    },
+    "ordinal": 38,
+    "productions": [
+      {
+        "producer": "Geek and Sundry"
+      }
+    ],
+    "publications": [
+      {
+        "publisher": "Geek and Sundry"
+      }
+    ],
+    "season": "Campaign 1",
+    "series": "Critical Role",
+    "title": "Omens"
+  },
+  {
+    "distributions": [
+      {
+        "date": "2016-03-30T22:11:13.000Z",
+        "distributor": "YouTube",
+        "media_id": "0W_by9hT6VQ"
+      }
+    ],
+    "episode": "40",
+    "links": {
+      "Geek and Sundry": "https://geekandsundry.com/critical-role-episode-40/"
+    },
+    "ordinal": 39,
+    "productions": [
+      {
+        "producer": "Geek and Sundry"
+      }
+    ],
+    "publications": [
+      {
+        "publisher": "Geek and Sundry"
+      }
+    ],
+    "season": "Campaign 1",
+    "series": "Critical Role",
+    "title": "Desperate Measures"
+  },
+  {
+    "distributions": [
+      {
+        "date": "2016-04-06T17:00:01.000Z",
+        "distributor": "YouTube",
+        "media_id": "L8xSI6QoT-A"
+      }
+    ],
+    "episode": "41",
+    "links": {
+      "Geek and Sundry": "https://geekandsundry.com/critical-role-episode-41/"
+    },
+    "ordinal": 40,
+    "productions": [
+      {
+        "producer": "Geek and Sundry"
+      }
+    ],
+    "publications": [
+      {
+        "publisher": "Geek and Sundry"
+      }
+    ],
+    "season": "Campaign 1",
+    "series": "Critical Role",
+    "title": "In Ruins"
+  },
+  {
+    "distributions": [
+      {
+        "date": "2016-04-13T17:00:03.000Z",
+        "distributor": "YouTube",
+        "media_id": "qWoloOxtvc0"
+      }
+    ],
+    "episode": "42",
+    "links": {
+      "Geek and Sundry": "https://geekandsundry.com/critical-role-episode-42/"
+    },
+    "ordinal": 41,
+    "productions": [
+      {
+        "producer": "Geek and Sundry"
+      }
+    ],
+    "publications": [
+      {
+        "publisher": "Geek and Sundry"
+      }
+    ],
+    "season": "Campaign 1",
+    "series": "Critical Role",
+    "title": "Dangerous Dealings"
+  },
+  {
+    "distributions": [
+      {
+        "date": "2016-04-20T22:30:00.000Z",
+        "distributor": "YouTube",
+        "media_id": "zr2n1fLVasU"
+      }
+    ],
+    "episode": "43",
+    "links": {
+      "Geek and Sundry": "https://geekandsundry.com/critical-role-episode-43/"
+    },
+    "ordinal": 42,
+    "productions": [
+      {
+        "producer": "Geek and Sundry"
+      }
+    ],
+    "publications": [
+      {
+        "publisher": "Geek and Sundry"
+      }
+    ],
+    "season": "Campaign 1",
+    "series": "Critical Role",
+    "title": "Return to Vasselheim"
+  },
+  {
+    "distributions": [
+      {
+        "date": "2016-04-27T17:00:01.000Z",
+        "distributor": "YouTube",
+        "media_id": "KHsA0R_GovU"
+      }
+    ],
+    "episode": "44",
+    "links": {
+      "Geek and Sundry": "https://geekandsundry.com/critical-role-episode-44/"
+    },
+    "ordinal": 43,
+    "productions": [
+      {
+        "producer": "Geek and Sundry"
+      }
+    ],
+    "publications": [
+      {
+        "publisher": "Geek and Sundry"
+      }
+    ],
+    "season": "Campaign 1",
+    "series": "Critical Role",
+    "title": "The Sunken Tomb"
+  },
+  {
+    "distributions": [
+      {
+        "date": "2016-05-04T17:30:00.000Z",
+        "distributor": "YouTube",
+        "media_id": "0uazTyTrk-8"
+      }
+    ],
+    "episode": "45",
+    "links": {
+      "Geek and Sundry": "https://geekandsundry.com/critical-role-episode-45/"
+    },
+    "ordinal": 44,
+    "productions": [
+      {
+        "producer": "Geek and Sundry"
+      }
+    ],
+    "publications": [
+      {
+        "publisher": "Geek and Sundry"
+      }
+    ],
+    "season": "Campaign 1",
+    "series": "Critical Role",
+    "title": "Those Who Walk Away..."
+  },
+  {
+    "distributions": [
+      {
+        "date": "2016-05-11T19:30:00.000Z",
+        "distributor": "YouTube",
+        "media_id": "uw1crQ1d9AU"
+      }
+    ],
+    "episode": "46",
+    "links": {
+      "Geek and Sundry": "https://geekandsundry.com/critical-role-episode-46/"
+    },
+    "ordinal": 45,
+    "productions": [
+      {
+        "producer": "Geek and Sundry"
+      }
+    ],
+    "publications": [
+      {
+        "publisher": "Geek and Sundry"
+      }
+    ],
+    "season": "Campaign 1",
+    "series": "Critical Role",
+    "title": "Cindergrove Revisited"
+  },
+  {
     "series": "Critical Role Podcast",
     "season": "Campaign 1",
     "episode": "1",
