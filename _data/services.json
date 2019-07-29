@@ -19,7 +19,8 @@
     "operator": "Apple, Inc.",
     "links": {
       "Home": "https://www.apple.com/itunes/podcasts/"
-    }
+    },
+    "media_link_pattern": "https://podcasts.apple.com/us/podcast/{media_id}/id{user_id}?i={media_id}"
   },
   {
     "name": "Critical Role Podcast",
