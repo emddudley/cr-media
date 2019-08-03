@@ -40,5 +40,19 @@
       "Critical Role": "https://critrole.com/",
       "Geek and Sundry": "http://criticalrolepodcast.geekandsundry.com/"
     }
+  },
+  {
+    "name": "Um, Actually",
+    "seasons": [
+      {
+        "name": "Season 1"
+      },
+      {
+        "name": "Season 2"
+      }
+    ],
+    "links": {
+      "CollegeHumor": "http://www.collegehumor.com/um-actually"
+    }
   }
 ]

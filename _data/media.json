@@ -1310,5 +1310,34 @@
         "duration": 4347
       }
     ]
+  },
+  {
+    "distributions": [
+      {
+        "distributor": "YouTube",
+        "media_id": "y18W1N6mR88"
+      }
+    ],
+    "episode": "1",
+    "links": {
+      "CollegeHumor": "http://www.collegehumor.com/video/40004699/wait-thats-not-the-joker-um-actually-full-episode"
+    },
+    "ordinal": 0,
+    "productions": [
+      {
+        "producer": "CollegeHumor"
+      }
+    ],
+    "publications": [
+      {
+        "publisher": "CollegeHumor"
+      }
+    ],
+    "season": "Season 2",
+    "series": "Um, Actually",
+    "title": "Wait, That's NOT the Joker?",
+    "credits": {
+      "Marisha Ray": ["Guest"]
+    }
   }
 ]
