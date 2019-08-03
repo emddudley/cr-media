@@ -4,12 +4,14 @@
     "seasons": [
       {
         "name": "Campaign 1",
+        "ordinal": 0,
         "links": {
           "Critical Role": "https://critrole.com/campaign-1/"
         }
       },
       {
         "name": "Campaign 2",
+        "ordinal": 1,
         "links": {
           "Critical Role": "https://critrole.com/campaign-2/"
         }
@@ -25,12 +27,14 @@
     "seasons": [
       {
         "name": "Campaign 1",
+        "ordinal": 0,
         "links": {
           "Critical Role": "https://critrole.com/campaign-1-podcast/"
         }
       },
       {
         "name": "Campaign 2",
+        "ordinal": 1,
         "links": {
           "Critical Role": "https://critrole.com/campaign-2-podcast/"
         }
@@ -45,10 +49,12 @@
     "name": "Um, Actually",
     "seasons": [
       {
-        "name": "Season 1"
+        "name": "Season 1",
+        "ordinal": 0
       },
       {
-        "name": "Season 2"
+        "name": "Season 2",
+        "ordinal": 1
       }
     ],
     "links": {
