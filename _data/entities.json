@@ -13,14 +13,14 @@
   },
   {
     "name": "Connected Ventures, LLC",
-    "type": "corporation",
-    "parent": "IAC/InterActiveCorp"
+    "parent": "IAC/InterActiveCorp",
+    "type": "corporation"
   },
   {
-    "name": "CRP Services, LLC",
     "links": {
       "Home": "https://critrole.com/"
-    }
+    },
+    "name": "CRP Services, LLC"
   },
   {
     "name": "Critical Role",
@@ -64,30 +64,30 @@
     "name": "Legendary Digital Networks"
   },
   {
-    "name": "Legendary Geek & Sundry, LLC",
     "links": {
       "Home": "https://geekandsundry.com/"
-    }
+    },
+    "name": "Legendary Geek & Sundry, LLC"
   },
   {
-    "name": "Marisha Ray",
-    "type": "person",
     "birth_date": "1989-05-10",
+    "name": "Marisha Ray",
     "services": {
       "Twitter": {
         "user_id": "Marisha_Ray"
       }
-    }
+    },
+    "type": "person"
   },
   {
-    "name": "Matthew Mercer",
-    "type": "person",
     "birth_date": "1982-06-29",
+    "name": "Matthew Mercer",
     "services": {
       "Periscope": {
         "user_id": "matthewmercer"
       }
-    }
+    },
+    "type": "person"
   },
   {
     "name": "Pinterest, Inc."
@@ -102,10 +102,10 @@
     "name": "Twitch Interactive, Inc."
   },
   {
-    "name": "Twitter, Inc.",
     "links": {
       "Home": "https://www.twitter.com/"
-    }
+    },
+    "name": "Twitter, Inc."
   },
   {
     "name": "YouTube, LLC"

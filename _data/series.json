@@ -1,51 +1,54 @@
 [
   {
-    "name": "Critical Role",
-    "seasons": [
-      {
-        "name": "Campaign 1",
-        "ordinal": 0,
-        "links": {
-          "Critical Role": "https://critrole.com/campaign-1/"
-        }
-      },
-      {
-        "name": "Campaign 2",
-        "ordinal": 1,
-        "links": {
-          "Critical Role": "https://critrole.com/campaign-2/"
-        }
-      }
-    ],
     "links": {
       "Critical Role": "https://critrole.com/",
       "Geek and Sundry": "https://geekandsundry.com/shows/critical-role/"
-    }
-  },
-  {
-    "name": "Critical Role Podcast",
+    },
+    "name": "Critical Role",
     "seasons": [
       {
-        "name": "Campaign 1",
-        "ordinal": 0,
         "links": {
-          "Critical Role": "https://critrole.com/campaign-1-podcast/"
-        }
+          "Critical Role": "https://critrole.com/campaign-1/"
+        },
+        "name": "Campaign 1",
+        "ordinal": 0
       },
       {
-        "name": "Campaign 2",
-        "ordinal": 1,
         "links": {
-          "Critical Role": "https://critrole.com/campaign-2-podcast/"
-        }
+          "Critical Role": "https://critrole.com/campaign-2/"
+        },
+        "name": "Campaign 2",
+        "ordinal": 1
       }
-    ],
+    ]
+  },
+  {
     "links": {
       "Critical Role": "https://critrole.com/",
       "Geek and Sundry": "http://criticalrolepodcast.geekandsundry.com/"
-    }
+    },
+    "name": "Critical Role Podcast",
+    "seasons": [
+      {
+        "links": {
+          "Critical Role": "https://critrole.com/campaign-1-podcast/"
+        },
+        "name": "Campaign 1",
+        "ordinal": 0
+      },
+      {
+        "links": {
+          "Critical Role": "https://critrole.com/campaign-2-podcast/"
+        },
+        "name": "Campaign 2",
+        "ordinal": 1
+      }
+    ]
   },
   {
+    "links": {
+      "CollegeHumor": "http://www.collegehumor.com/um-actually"
+    },
     "name": "Um, Actually",
     "seasons": [
       {
@@ -56,9 +59,6 @@
         "name": "Season 2",
         "ordinal": 1
       }
-    ],
-    "links": {
-      "CollegeHumor": "http://www.collegehumor.com/um-actually"
-    }
+    ]
   }
 ]

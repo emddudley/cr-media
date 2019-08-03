@@ -1,13 +1,23 @@
 [
   {
-    "series": "Critical Role",
-    "season": "Campaign 1",
+    "distributions": [
+      {
+        "date": "2015-03-12T19:00:00-0700",
+        "distributor": "Twitch",
+        "media_id": ""
+      },
+      {
+        "date": "2015-06-24",
+        "distributor": "YouTube",
+        "duration": 10987,
+        "media_id": "i-p9lWIhcLQ"
+      }
+    ],
     "episode": "1",
-    "title": "Arrival at Kraghammer",
-    "ordinal": 0,
     "links": {
       "Geek and Sundry": "https://geekandsundry.com/critical-role-episode-1/"
     },
+    "ordinal": 0,
     "productions": [
       {
         "producer": "Geek and Sundry"
@@ -18,55 +28,22 @@
         "publisher": "Geek and Sundry"
       }
     ],
-    "distributions": [
-      {
-        "distributor": "Twitch",
-        "media_id": "",
-        "date": "2015-03-12T19:00:00-0700"
-      },
-      {
-        "distributor": "YouTube",
-        "media_id": "i-p9lWIhcLQ",
-        "date": "2015-06-24",
-        "duration": 10987
-      }
-    ]
+    "season": "Campaign 1",
+    "series": "Critical Role",
+    "title": "Arrival at Kraghammer"
   },
   {
-    "series": "Critical Role",
-    "season": "Campaign 1",
-    "episode": "2",
-    "title": "Into the Greyspine Mines",
-    "ordinal": 1,
-    "links": {
-      "Geek and Sundry": "https://geekandsundry.com/critical-role-episode-2/"
-    },
-    "productions": [
-      {
-        "producer": "Geek and Sundry"
-      }
-    ],
-    "publications": [
-      {
-        "publisher": "Geek and Sundry"
-      }
-    ],
     "distributions": [
       {
         "distributor": "YouTube",
         "media_id": "JTie0S_5gjE"
       }
-    ]
-  },
-  {
-    "series": "Critical Role",
-    "season": "Campaign 1",
-    "episode": "3",
-    "title": "Strange Bedfellows",
-    "ordinal": 2,
+    ],
+    "episode": "2",
     "links": {
-      "Geek and Sundry": "https://geekandsundry.com/critical-role-episode-3/"
+      "Geek and Sundry": "https://geekandsundry.com/critical-role-episode-2/"
     },
+    "ordinal": 1,
     "productions": [
       {
         "producer": "Geek and Sundry"
@@ -77,22 +54,22 @@
         "publisher": "Geek and Sundry"
       }
     ],
+    "season": "Campaign 1",
+    "series": "Critical Role",
+    "title": "Into the Greyspine Mines"
+  },
+  {
     "distributions": [
       {
         "distributor": "YouTube",
         "media_id": "kpkCcb--r90"
       }
-    ]
-  },
-  {
-    "series": "Critical Role",
-    "season": "Campaign 1",
-    "episode": "4",
-    "title": "Attack on the Duergar Warcamp",
-    "ordinal": 3,
+    ],
+    "episode": "3",
     "links": {
-      "Geek and Sundry": "https://geekandsundry.com/critical-role-episode-4/"
+      "Geek and Sundry": "https://geekandsundry.com/critical-role-episode-3/"
     },
+    "ordinal": 2,
     "productions": [
       {
         "producer": "Geek and Sundry"
@@ -103,22 +80,22 @@
         "publisher": "Geek and Sundry"
       }
     ],
+    "season": "Campaign 1",
+    "series": "Critical Role",
+    "title": "Strange Bedfellows"
+  },
+  {
     "distributions": [
       {
         "distributor": "YouTube",
         "media_id": "kGxiZNbjwGI"
       }
-    ]
-  },
-  {
-    "series": "Critical Role",
-    "season": "Campaign 1",
-    "episode": "5",
-    "title": "The Trick About Falling",
-    "ordinal": 4,
+    ],
+    "episode": "4",
     "links": {
-      "Geek and Sundry": "https://geekandsundry.com/critical-role-episode-5/"
+      "Geek and Sundry": "https://geekandsundry.com/critical-role-episode-4/"
     },
+    "ordinal": 3,
     "productions": [
       {
         "producer": "Geek and Sundry"
@@ -129,22 +106,22 @@
         "publisher": "Geek and Sundry"
       }
     ],
+    "season": "Campaign 1",
+    "series": "Critical Role",
+    "title": "Attack on the Duergar Warcamp"
+  },
+  {
     "distributions": [
       {
         "distributor": "YouTube",
         "media_id": "u6QpXDL7E8Y"
       }
-    ]
-  },
-  {
-    "series": "Critical Role",
-    "season": "Campaign 1",
-    "episode": "6",
-    "title": "Breaching the Emberhold",
-    "ordinal": 5,
+    ],
+    "episode": "5",
     "links": {
-      "Geek and Sundry": "https://geekandsundry.com/critical-role-episode-6/"
+      "Geek and Sundry": "https://geekandsundry.com/critical-role-episode-5/"
     },
+    "ordinal": 4,
     "productions": [
       {
         "producer": "Geek and Sundry"
@@ -155,22 +132,22 @@
         "publisher": "Geek and Sundry"
       }
     ],
+    "season": "Campaign 1",
+    "series": "Critical Role",
+    "title": "The Trick About Falling"
+  },
+  {
     "distributions": [
       {
         "distributor": "YouTube",
         "media_id": "cemCmD27Rnc"
       }
-    ]
-  },
-  {
-    "series": "Critical Role",
-    "season": "Campaign 1",
-    "episode": "7",
-    "title": "The Throne Room",
-    "ordinal": 6,
+    ],
+    "episode": "6",
     "links": {
-      "Geek and Sundry": "https://geekandsundry.com/critical-role-episode-7/"
+      "Geek and Sundry": "https://geekandsundry.com/critical-role-episode-6/"
     },
+    "ordinal": 5,
     "productions": [
       {
         "producer": "Geek and Sundry"
@@ -181,22 +158,22 @@
         "publisher": "Geek and Sundry"
       }
     ],
+    "season": "Campaign 1",
+    "series": "Critical Role",
+    "title": "Breaching the Emberhold"
+  },
+  {
     "distributions": [
       {
         "distributor": "YouTube",
         "media_id": "XGs3bOX4XFQ"
       }
-    ]
-  },
-  {
-    "series": "Critical Role",
-    "season": "Campaign 1",
-    "episode": "8",
-    "title": "Glass and Bone",
-    "ordinal": 7,
+    ],
+    "episode": "7",
     "links": {
-      "Geek and Sundry": "https://geekandsundry.com/critical-role-episode-8/"
+      "Geek and Sundry": "https://geekandsundry.com/critical-role-episode-7/"
     },
+    "ordinal": 6,
     "productions": [
       {
         "producer": "Geek and Sundry"
@@ -207,22 +184,22 @@
         "publisher": "Geek and Sundry"
       }
     ],
+    "season": "Campaign 1",
+    "series": "Critical Role",
+    "title": "The Throne Room"
+  },
+  {
     "distributions": [
       {
         "distributor": "YouTube",
         "media_id": "A14MzQxxdwM"
       }
-    ]
-  },
-  {
-    "series": "Critical Role",
-    "season": "Campaign 1",
-    "episode": "9",
-    "title": "Yug'voril Uncovered",
-    "ordinal": 8,
+    ],
+    "episode": "8",
     "links": {
-      "Geek and Sundry": "https://geekandsundry.com/critical-role-episode-9/"
+      "Geek and Sundry": "https://geekandsundry.com/critical-role-episode-8/"
     },
+    "ordinal": 7,
     "productions": [
       {
         "producer": "Geek and Sundry"
@@ -233,22 +210,22 @@
         "publisher": "Geek and Sundry"
       }
     ],
+    "season": "Campaign 1",
+    "series": "Critical Role",
+    "title": "Glass and Bone"
+  },
+  {
     "distributions": [
       {
         "distributor": "YouTube",
         "media_id": "IsLIiKFSJLQ"
       }
-    ]
-  },
-  {
-    "series": "Critical Role",
-    "season": "Campaign 1",
-    "episode": "10",
-    "title": "K'Varn Revealed",
-    "ordinal": 9,
+    ],
+    "episode": "9",
     "links": {
-      "Geek and Sundry": "https://geekandsundry.com/critical-role-episode-10/"
+      "Geek and Sundry": "https://geekandsundry.com/critical-role-episode-9/"
     },
+    "ordinal": 8,
     "productions": [
       {
         "producer": "Geek and Sundry"
@@ -259,12 +236,35 @@
         "publisher": "Geek and Sundry"
       }
     ],
+    "season": "Campaign 1",
+    "series": "Critical Role",
+    "title": "Yug'voril Uncovered"
+  },
+  {
     "distributions": [
       {
         "distributor": "YouTube",
         "media_id": "AvnaMU7Dr-E"
       }
-    ]
+    ],
+    "episode": "10",
+    "links": {
+      "Geek and Sundry": "https://geekandsundry.com/critical-role-episode-10/"
+    },
+    "ordinal": 9,
+    "productions": [
+      {
+        "producer": "Geek and Sundry"
+      }
+    ],
+    "publications": [
+      {
+        "publisher": "Geek and Sundry"
+      }
+    ],
+    "season": "Campaign 1",
+    "series": "Critical Role",
+    "title": "K'Varn Revealed"
   },
   {
     "distributions": [
@@ -1256,12 +1256,24 @@
     "title": "Cindergrove Revisited"
   },
   {
-    "series": "Critical Role Podcast",
-    "season": "Campaign 1",
+    "distributions": [
+      {
+        "distributor": "Apple Podcasts",
+        "media_id": "1000386305285",
+        "user_id": "1243705452"
+      },
+      {
+        "distributor": "Critical Role Podcast",
+        "media_id": "episode-1-arrival-at-kraghammer"
+      },
+      {
+        "distributor": "Google Podcasts",
+        "media_id": "Dhlquhkfxrjwlfpfmwzcydktgge"
+      }
+    ],
     "episode": "1",
-    "title": "Arrival at Kraghammer",
-    "ordinal": 0,
     "links": {},
+    "ordinal": 0,
     "productions": [
       {
         "producer": "Geek and Sundry"
@@ -1272,24 +1284,20 @@
         "publisher": "Geek and Sundry"
       }
     ],
-    "distributions": [
-      {
-        "distributor": "Apple Podcasts",
-        "user_id": "1243705452",
-        "media_id": "1000386305285"
-      },
-      {
-        "distributor": "Critical Role Podcast",
-        "media_id": "episode-1-arrival-at-kraghammer"
-      },
-      {
-        "distributor": "Google Podcasts",
-        "media_id": "Dhlquhkfxrjwlfpfmwzcydktgge"
-      }
-    ]
+    "season": "Campaign 1",
+    "series": "Critical Role Podcast",
+    "title": "Arrival at Kraghammer"
   },
   {
-    "title": "Critmas with Marisha and Matt!",
+    "distributions": [
+      {
+        "date": "2016-09-22T03:33:12+0000",
+        "distributor": "Periscope",
+        "duration": 4347,
+        "media_id": "1nAKEDZznjoxL",
+        "user_id": "matthewmercer"
+      }
+    ],
     "links": {},
     "productions": [
       {
@@ -1301,17 +1309,14 @@
         "publisher": "Matthew Mercer"
       }
     ],
-    "distributions": [
-      {
-        "distributor": "Periscope",
-        "user_id": "matthewmercer",
-        "media_id": "1nAKEDZznjoxL",
-        "date": "2016-09-22T03:33:12+0000",
-        "duration": 4347
-      }
-    ]
+    "title": "Critmas with Marisha and Matt!"
   },
   {
+    "credits": {
+      "Marisha Ray": [
+        "Guest"
+      ]
+    },
     "distributions": [
       {
         "distributor": "YouTube",
@@ -1335,9 +1340,6 @@
     ],
     "season": "Season 2",
     "series": "Um, Actually",
-    "title": "Wait, That's NOT the Joker?",
-    "credits": {
-      "Marisha Ray": ["Guest"]
-    }
+    "title": "Wait, That's NOT the Joker?"
   }
 ]
