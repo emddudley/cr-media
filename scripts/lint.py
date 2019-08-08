@@ -9,6 +9,8 @@ from pathlib import Path
 data_dir = Path(Path(__file__).parent, '..', '_data').resolve()
 
 for data_path in data_dir.glob('*.json'):
+    print(f'Normalizing {data_path}')
+
     with open(data_path, 'r') as f:
         data_json = json.load(f)
 
