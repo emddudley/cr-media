@@ -55,6 +55,14 @@
     "name": "Geek and Sundry"
   },
   {
+    "name": "Gen Con, LLC",
+    "services": {
+      "Twitch": {
+        "user_id": "genconmainstage"
+      }
+    }
+  },
+  {
     "name": "Google, LLC"
   },
   {
@@ -80,6 +88,79 @@
     "type": "person"
   },
   {
+    "birth_date": "1983-08-09",
+    "name": "Ashley Johnson",
+    "services": {
+      "Instagram": {
+        "user_id": "matthewmercer"
+      },
+      "SoundCloud": {
+        "user_id": "ashleysuzanne"
+      },
+      "Tumblr": {
+        "user_id": "theashleysuzanne"
+      },
+      "Twitter": {
+        "user_id": "TheVulcanSalute"
+      }
+    },
+    "type": "person"
+  },
+  {
+    "name": "Brian Foster",
+    "services": {
+      "Twitter": {
+        "user_id": "brianwfoster"
+      }
+    },
+    "type": "person"
+  },
+  {
+    "name": "Travis Willingham",
+    "services": {
+      "Twitter": {
+        "user_id": "willingblam"
+      }
+    },
+    "type": "person"
+  },
+  {
+    "name": "Taliesin Jaffe",
+    "services": {
+      "Twitter": {
+        "user_id": "executivegoth"
+      }
+    },
+    "type": "person"
+  },
+  {
+    "name": "Sam Riegel",
+    "services": {
+      "Twitter": {
+        "user_id": "samriegel"
+      }
+    },
+    "type": "person"
+  },
+  {
+    "name": "Liam O'Brien",
+    "services": {
+      "Twitter": {
+        "user_id": "VoiceOfOBrien"
+      }
+    },
+    "type": "person"
+  },
+  {
+    "name": "Laura Bailey",
+    "services": {
+      "Twitter": {
+        "user_id": "LauraBaileyVO"
+      }
+    },
+    "type": "person"
+  },
+  {
     "birth_date": "1982-06-29",
     "name": "Matthew Mercer",
     "services": {
@@ -96,7 +177,13 @@
     "name": "Podbean Tech, LLC"
   },
   {
+    "name": "SoundCloud Limited"
+  },
+  {
     "name": "Spotify Technology S.A."
+  },
+  {
+    "name": "Tumblr, Inc."
   },
   {
     "name": "Twitch Interactive, Inc."

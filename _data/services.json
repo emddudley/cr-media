@@ -89,6 +89,14 @@
   },
   {
     "links": {
+      "Home": "https://soundcloud.com/"
+    },
+    "name": "SoundCloud",
+    "operator": "SoundCloud Limited",
+    "user_link_pattern": "https://soundcloud.com/{user_id}"
+  },
+  {
+    "links": {
       "Home": "https://www.spotify.com/"
     },
     "media_link_pattern": "https://open.spotify.com/episode/{media_id}",
@@ -98,8 +106,17 @@
   },
   {
     "links": {
+      "Home": "https://www.tumblr.com/"
+    },
+    "name": "Tumblr",
+    "operator": "Tumblr, Inc.",
+    "user_link_pattern": "https://{user_id}.tumblr.com/"
+  },
+  {
+    "links": {
       "Home": "https://www.twitch.tv/"
     },
+    "media_link_pattern": "https://www.twitch.tv/videos/{media_id}",
     "name": "Twitch",
     "operator": "Twitch Interactive, Inc.",
     "user_link_pattern": "https://www.twitch.tv/{user_id}/"

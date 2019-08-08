@@ -1341,5 +1341,54 @@
     "season": "Season 2",
     "series": "Um, Actually",
     "title": "Wait, That's NOT the Joker?"
+  },
+  {
+    "credits": {
+      "Brian Foster": [
+        "Host"
+      ],
+      "Laura Bailey": [
+        "Panelist"
+      ],
+      "Liam O'Brien": [
+        "Panelist"
+      ],
+      "Marisha Ray": [
+        "Panelist"
+      ],
+      "Matthew Mercer": [
+        "Panelist"
+      ],
+      "Sam Riegel": [
+        "Panelist"
+      ],
+      "Taliesin Jaffe": [
+        "Panelist"
+      ],
+      "Travis Willingham": [
+        "Panelist"
+      ]
+    },
+    "distributions": [
+      {
+        "date": "2019-08-03T13:00:00-0400",
+        "distributor": "Twitch",
+        "media_id": "462435117"
+      }
+    ],
+    "links": {
+      "Critical Role": "https://critrole.com/event/talks-machina-panel-at-gen-con/"
+    },
+    "productions": [
+      {
+        "producer": "Gen Con, LLC"
+      }
+    ],
+    "publications": [
+      {
+        "publisher": "Gen Con, LLC"
+      }
+    ],
+    "title": "Talks Machina with the Cast of Critical Role"
   }
 ]
