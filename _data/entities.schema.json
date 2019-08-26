@@ -1,0 +1,126 @@
+{
+  "$id": "https://emddudley.github.io/critical-data/_data/entities.schema.json",
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "definitions": {
+    "entity": {
+      "type": "object",
+      "description": "Entity.",
+      "properties": {
+        "name": {
+          "type": "string",
+          "description": "Entity name."
+        },
+        "services": {
+          "type": "object",
+          "description": "Entity's prescence on various services.",
+          "patternProperties": {
+            ".*": {
+              "type": "object",
+              "properties": {
+                "organization_id": {
+                  "type": "string",
+                  "description": "Entity's organization ID on the service."
+                },
+                "user_id": {
+                  "type": "string",
+                  "description": "Entity's user ID on the service."
+                }
+              }
+            }
+          }
+        },
+        "links": {
+          "type": "object",
+          "description": "URLs to resources related to the entity.",
+          "patternProperties": {
+            ".*": {
+              "type": "string",
+              "description": "URL to the named resource."
+            }
+          }
+        }
+      }
+    },
+    "corporation": {
+      "type": "object",
+      "description": "Corporation or business.",
+      "allOf": [
+        {
+          "$ref": "#/definitions/entity"
+        },
+        {
+          "properties": {
+            "parent": {
+              "type": "object",
+              "description": "Parent corporation.",
+              "allOf": [
+                {
+                  "$ref": "#/definitions/corporation"
+                }
+              ]
+            }
+          }
+        }
+      ]
+    },
+    "organization": {
+      "type": "object",
+      "description": "Organization or group.",
+      "allOf": [
+        {
+          "$ref": "#/definitions/entity"
+        },
+        {
+          "properties": {
+            "parent": {
+              "type": "object",
+              "description": "Parent organization.",
+              "allOf": [
+                {
+                  "$ref": "#/definitions/organization"
+                }
+              ]
+            }
+          }
+        }
+      ]
+    },
+    "person": {
+      "type": "object",
+      "description": "Person.",
+      "allOf": [
+        {
+          "$ref": "#/definitions/entity"
+        },
+        {
+          "properties": {
+            "birth_date": {
+              "type": "string",
+              "description": "Person's date of birth."
+            }
+          }
+        }
+      ]
+    }
+  },
+  "type": "array",
+  "description": "List of entities in the data set.",
+  "items": {
+    "type": "object",
+    "description": "Entity.",
+    "anyOf": [
+      {
+        "$ref": "#/definitions/corporation"
+      },
+      {
+        "$ref": "#/definitions/entity"
+      },
+      {
+        "$ref": "#/definitions/organization"
+      },
+      {
+        "$ref": "#/definitions/person"
+      }
+    ]
+  }
+}
