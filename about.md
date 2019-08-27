@@ -2,6 +2,6 @@
 layout: default
 title: About
 ---
-# About Critical Data
+# About CR Media Directory
 
-A small site with data on Critical Role media.
+A directory of Critical Role media.

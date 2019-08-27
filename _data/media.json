@@ -1258,6 +1258,33 @@
   {
     "distributions": [
       {
+        "date": "",
+        "distributor": "YouTube",
+        "media_id": "byva0hOj8CU"
+      }
+    ],
+    "episode": "1",
+    "links": {
+      "Geek and Sundry": "https://geekandsundry.com/critical-role-curious-beginnings-campaign-2-premiere/"
+    },
+    "ordinal": 0,
+    "productions": [
+      {
+        "producer": "Geek and Sundry"
+      }
+    ],
+    "publications": [
+      {
+        "publisher": "Geek and Sundry"
+      }
+    ],
+    "season": "Campaign 2",
+    "series": "Critical Role",
+    "title": "Curious Beginnings"
+  },
+  {
+    "distributions": [
+      {
         "distributor": "Apple Podcasts",
         "media_id": "1000386305285",
         "user_id": "1243705452"
@@ -1310,6 +1337,29 @@
       }
     ],
     "title": "Critmas with Marisha and Matt!"
+  },
+  {
+    "distributions": [
+      {
+        "date": "",
+        "distributor": "Twitter",
+        "duration": 0,
+        "media_id": "1164794544908488704",
+        "user_id": "matthewmercer"
+      }
+    ],
+    "links": {},
+    "productions": [
+      {
+        "producer": "Matthew Mercer"
+      }
+    ],
+    "publications": [
+      {
+        "publisher": "Matthew Mercer"
+      }
+    ],
+    "title": "Totally forgot this at the end of the stream!! Everyone leveled! #CriticalRole"
   },
   {
     "credits": {
