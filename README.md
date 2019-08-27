@@ -1,3 +1,3 @@
-# Critical Data
+# Critical Role Media
 
-A site with data on Critical Role.
+A directory of Critical Role media.
